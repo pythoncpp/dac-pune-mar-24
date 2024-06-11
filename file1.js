@@ -8,3 +8,5 @@ f1()
 
 function f2() {}
 f2()
+
+console.log('added by new developer')
