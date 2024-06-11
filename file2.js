@@ -5,3 +5,5 @@ function f1() {
   console.log('inside f1')
 }
 f1()
+
+console.log('new line added')
